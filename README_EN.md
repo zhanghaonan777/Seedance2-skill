@@ -35,7 +35,7 @@ seedance-skill/
 Clone this repo into your Agent's skill directory:
 
 ```bash
-git clone https://github.com/yourname/seedance-skill.git
+git clone https://github.com/zhanghaonan777/Seedance2-skill.git
 ```
 
 ### 2. Set Up API Key

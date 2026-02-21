@@ -35,7 +35,7 @@ seedance-skill/
 将本仓库克隆到你的 Agent 技能目录：
 
 ```bash
-git clone https://github.com/yourname/seedance-skill.git
+git clone https://github.com/zhanghaonan777/Seedance2-skill.git
 ```
 
 ### 2. 设置 API Key
